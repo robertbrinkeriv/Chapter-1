@@ -1,3 +1,12 @@
+//HEADER
+//Chapter 1 Exercise 1-3
+//Robert Brinker IV
+//CS160 Fall 2019
+//10/9/2019
+//Exercise-1 asks to describe basic terms in Java, which are commonly used amongst programmers. 
+//Exercise 2 asks to code basic things into java, such as simply printing the line "Hello, World" or adding comments.
+//Exercise 3 asks to put misnomers into the console to output errors for the programmer to fix.
+
 Exercise-1: 
 1 - In computer jargon, what’s the difference between a statement and a comment?
   A comment is meant for just the programmer, and has no impact on the code itself. It is meant to explain and go into further detail on
